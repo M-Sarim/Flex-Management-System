@@ -36,7 +36,7 @@ tid.txt	Stores teacher IDs.
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_GITHUB_USERNAME/Flex-Management-System.git
+git clone https://github.com/M-Sarim/Flex-Management-System.git
 cd Flex-Management-System
 2️⃣ Compile & Run the Project
 Using g++ (GCC for C++)
