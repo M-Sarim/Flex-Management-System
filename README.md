@@ -1,5 +1,3 @@
-# 📚 Flex Management System
-
 <h1 align="center">📚 Flex Management System</h1>
 <p align="center">
   <b>A C++ Object-Oriented Student & Course Management System</b><br>
